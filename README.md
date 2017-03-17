@@ -72,7 +72,7 @@ Binary GDI instructions. Generated using [Oxage.Wmf .NET library](https://wmf.co
 ```
 
 
-## Indexed 2-bpp PNG : 164 bytes ##
+## Indexed 2-bpp PNG : 164 bytes (raster format, not vector) ##
 
 Used the [PNGoo GUI](https://pngquant.org/), based on [pngquant](https://github.com/pornel/pngquant), both developed by Kornel Lesiński and contributors.
 

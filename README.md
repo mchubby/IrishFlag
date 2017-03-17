@@ -1,4 +1,4 @@
-﻿# Various ways to draw a (vector) Irish Flag
+# Various ways to draw a (vector) Irish Flag #
 
 ☘️☘️☘️ Happy St. Patrick's y'all!
 
@@ -18,7 +18,7 @@ from [Reddit](https://www.reddit.com/r/europe/comments/5zwm5z/happy_saint_patric
 ```
 
 
-## Encapsulated PostScript : 279 bytes
+## Encapsulated PostScript : 279 bytes ##
 
 [irish-flag.eps](irish-flag.eps)
 
@@ -36,7 +36,7 @@ userdict begin
 ```
 
 
-## Windows MetaFile : 178 bytes
+## Windows MetaFile : 178 bytes ##
 
 Binary GDI instructions. Generated using [Oxage.Wmf .NET library](https://wmf.codeplex.com/)
 
@@ -63,7 +63,7 @@ Binary GDI instructions. Generated using [Oxage.Wmf .NET library](https://wmf.co
 ```
 
 
-## HTML Canvas + JavaScript : 206 bytes
+## HTML Canvas + JavaScript : 206 bytes ##
 
 [irish-flag-canvas.html](irish-flag-canvas.html)
 
@@ -72,7 +72,7 @@ Binary GDI instructions. Generated using [Oxage.Wmf .NET library](https://wmf.co
 ```
 
 
-## Indexed 2-bpp PNG : 164 bytes
+## Indexed 2-bpp PNG : 164 bytes ##
 
 Used the [PNGoo GUI](https://pngquant.org/), based on [pngquant](https://github.com/pornel/pngquant), both developed by Kornel Lesiński and contributors.
 

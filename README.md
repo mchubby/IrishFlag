@@ -1,6 +1,6 @@
 # Various ways to draw a (vector) Irish Flag #
 
-☘️☘️☘️ Happy St. Patrick's y'all!
+☘️☘️☘️ Happy St. Patrick's y'all! :beer: :beers: :beer:
 
 
 ## Source image: JPEG (255x128 raster) : 956 bytes ##

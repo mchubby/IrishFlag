@@ -1,3 +1,9 @@
+*.sln     text eol=crlf
+*.csproj  text eol=crlf
+*.dll     binary
+*.pdb     binary
+
+
 ChangeLog.txt ident
 
 # Default

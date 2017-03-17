@@ -3,7 +3,7 @@
 ☘️☘️☘️ Happy St. Patrick's y'all!
 
 
-## Source image: JPEG (255x128 raster)
+## Source image: JPEG (255x128 raster) : 956 bytes ##
 
 ![](irish-flag.jpg?raw=true)
 from [Reddit](https://www.reddit.com/r/europe/comments/5zwm5z/happy_saint_patricks_day_europe/)
